@@ -1,0 +1,8 @@
+    body {
+        background: oklch(25.8% 0.092 26.042);
+        color: oklch(40.8% 0.123 38.172);
+    }
+
+    img {
+        width: 700px;
+    }
